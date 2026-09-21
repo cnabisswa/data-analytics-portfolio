@@ -1,2 +1,35 @@
-# data-analytics-portfolio
-Data analytics projects demonstrating Python, SQL, data cleaning, analysis, visualization, and healthcare operational analytics.
+# Christine Nabisswa — Data Analytics Portfolio
+
+This repository contains selected data analytics projects demonstrating
+practical experience with Python, SQL, data cleaning, data analysis,
+feature engineering, visualization, and healthcare operational analytics.
+
+## Projects
+
+### 1. Czech Bank Dataset — Python Data Analytics Class Exercise
+
+A class exercise demonstrating data cleaning, consolidation, feature
+engineering, multi-table joins, missing-data treatment, outlier
+verification, and categorical binning using Python and Pandas.
+
+### 2. Grocery/Retail Dataset — Data Analytics Class Exercise
+
+A class exercise demonstrating practical data analysis and interpretation
+using a grocery/retail dataset.
+
+### 3. Healthcare Billing & Operational Data Analysis
+
+An independent project applying data analytics techniques to healthcare
+billing and operational data.
+
+## Tools & Skills
+
+- Python
+- Pandas
+- SQL
+- Data Cleaning
+- Data Quality Assessment
+- Data Analysis
+- Feature Engineering
+- Data Visualization
+- Healthcare Operational Analytics
