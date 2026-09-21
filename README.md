@@ -27,6 +27,7 @@ billing and operational data.
 - Python
 - Pandas
 - SQL
+- Excel
 - Data Cleaning
 - Data Quality Assessment
 - Data Analysis
